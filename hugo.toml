@@ -14,6 +14,10 @@ languageCode = 'en-us'
     dateFormat = "Mon, Jan 2, 2006"
     mode = "toggle"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+    
 [[params.social]]
 name = "Instagram"
 icon = "simple:instagram"
