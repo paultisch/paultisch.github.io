@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_Defaults on Paul Tisch | Composer</title>
+    <link>//localhost:1313/_default/</link>
+    <description>Recent content in _Defaults on Paul Tisch | Composer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Mar 2025 13:05:42 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/_default/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Page</title>
+      <link>//localhost:1313/_default/page/</link>
+      <pubDate>Sat, 15 Mar 2025 13:05:42 +0100</pubDate>
+      <guid>//localhost:1313/_default/page/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

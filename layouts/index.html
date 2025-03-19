@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+<h1>{{ .Params.title }}</h1>
+
+<div class="container">
+  <div class="bio-text">
+      {{ .Content }}
+  </div>
+  <div class="bio-image">
+      {{ if .Params.image }}
+          <img src="{{ .Params.image }}" alt="Profile Picture">
+      {{ end }}
+  </div>
+</div>
+
+{{ end }}

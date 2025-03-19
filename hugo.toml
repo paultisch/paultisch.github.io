@@ -1,0 +1,73 @@
+baseurl = "/"
+title = "Paul Tisch | Composer"
+theme = "archie"
+languageCode = 'en-us'
+
+[params]
+    mainSections = ["blog"]
+    intro = true
+    headline = "Paul's Cool New Website"
+    description = "My description"
+    email = "paul.l.tisch@gmail.com"
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "Mon, Jan 2, 2006"
+    mode = "toggle"
+
+[[params.social]]
+name = "Instagram"
+icon = "simple:instagram"
+url = "https://www.imdb.com/name/nm11576195/?ref_=ttfc_fc_cr"
+
+[[params.social]]
+name = "Youtube"
+icon = "simple:youtube"
+url = "https://www.youtube.com/@paultischmusic"
+
+[[params.social]]
+name = "Bandcamp"
+icon = "simple:bandcamp"
+url = "https://peterwinnipeg.bandcamp.com/"
+
+[[params.social]]
+name = "Apple Music"
+icon = "simple:applemusic"
+url = "https://music.apple.com/us/artist/peter-winnipeg/1449149738"
+
+[[params.social]]
+name = "Spotify"
+icon = "simple:spotify"
+url = "https://open.spotify.com/artist/56vQnjHOfGE5PFjtILwgr5"
+
+[[params.social]]
+name = "IMDB"
+icon = "simple:imdb"
+url = "https://www.imdb.com/name/nm11576195/?ref_=ttfc_fc_cr"
+
+[Permalinks]
+    post = "/:filename/"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[menu.main]]
+name = "Works"
+url = "/works"
+weight = 3
+
+[[menu.main]]
+name = "Blog"
+url = "/blog"
+weight = 4
+
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 5

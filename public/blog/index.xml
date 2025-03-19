@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Paul Tisch | Composer</title>
+    <link>//localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Paul Tisch | Composer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Mar 2025 22:04:29 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brahms&#39; 4th Symphony and the cinematic Diminished 6th</title>
+      <link>//localhost:1313/blog/03182025/</link>
+      <pubDate>Tue, 18 Mar 2025 22:04:29 +0100</pubDate>
+      <guid>//localhost:1313/blog/03182025/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-the-first-blog-post&#34;&gt;Welcome to the first blog post&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to my blog! Are blogs still a thing in 2025? Does anyone still read them? Either way, I intend to write weekly posts about curiosities I notice in music, lessons I learn in composition, software tips and tutorials, etc&amp;hellip; I hope you will find something of value in it.&lt;/p&gt;&#xA;&lt;h1 id=&#34;the-composers-toolbag&#34;&gt;The Composer&amp;rsquo;s Toolbag&lt;/h1&gt;&#xA;&lt;p&gt;Music composition, and especially orchestration, are traditional crafts in which one learns reliable ways to make the music achieve its intended effect. The artist can inject beauty and emotion from their heart into the heart of the piece, but without well-developed craft, their ideas mostly remain unrealized and unfulfilled. Besides learning the fundamentals of compositional craft: motivic construction, thematic development, form, harmony, etc., we also collect little nuggets of ideas along the way, which we can then selectively deploy to reliably contribute some desired effect in our music.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome | Two 9ths: Bruckner &amp; Mahler</title>
+      <link>//localhost:1313/blog/03162025/</link>
+      <pubDate>Thu, 13 Mar 2025 20:38:50 +0100</pubDate>
+      <guid>//localhost:1313/blog/03162025/</guid>
+      <description>&lt;h2 id=&#34;bruckners-9th-and-mahlers-9th&#34;&gt;Bruckner&amp;rsquo;s 9th and Mahler&amp;rsquo;s 9th&lt;/h2&gt;&#xA;&lt;p&gt;It took me some time to warm up to Bruckner&amp;rsquo;s symphonies. The sheer length of his pieces and the jagedness between his themes used to turn me off, but today I find it addictive, and the vastness, a portal to worlds to get lost inside of. And his use of the brass is second to none. I heard his 6th Symphony performed recently by the Rundfunk Sinfonie Orchester in Berlin under the direction of Christoph Eschenbach and the brass nearly knocked me off my seat.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
